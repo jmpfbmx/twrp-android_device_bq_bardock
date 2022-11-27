@@ -7,7 +7,7 @@
 # Inherit from common mithorium-common
 include device/bq/msm8953-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/bq/bardock_pro
+DEVICE_PATH := device/bq/bardock
 
 # Kernel
 TARGET_PREBUILT_KERNEL := $(DEVICE_PATH)/prebuilt/Image.gz-dtb

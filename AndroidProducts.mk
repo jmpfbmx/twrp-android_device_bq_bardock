@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_bardock_pro.mk
+    $(LOCAL_DIR)/twrp_bardock.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_bardock_pro-user \
-    twrp_bardock_pro-userdebug \
-    twrp_bardock_pro-eng
+    twrp_bardock-user \
+    twrp_bardock-userdebug \
+    twrp_bardock-eng
